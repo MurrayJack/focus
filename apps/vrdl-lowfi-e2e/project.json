@@ -1,0 +1,10 @@
+{
+  "name": "vrdl-lowfi-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/vrdl-lowfi-e2e/src",
+  "projectType": "application",
+  "tags": [],
+  "implicitDependencies": ["vrdl-lowfi"],
+  "// targets": "to see all targets run: nx show project vrdl-lowfi-e2e --web",
+  "targets": {}
+}
